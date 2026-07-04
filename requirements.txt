@@ -1,6 +1,7 @@
 streamlit
 fastapi
-uvicorn
+uvicorn[standard]
+gunicorn
 plotly
 xgboost
 joblib
