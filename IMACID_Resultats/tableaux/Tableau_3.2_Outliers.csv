@@ -1,0 +1,5 @@
+Méthode,N outliers,Pourcentage (%),Seuil
+PCA/Mahalanobis,22,6.01,"χ²(0.99, df=10)"
+High Leverage,24,6.56,2p/n
+IQR (P₂O₅),4,1.09,Q1−1.5×IQR / Q3+1.5×IQR
+Z-score,1,0.27,|Z|>3
